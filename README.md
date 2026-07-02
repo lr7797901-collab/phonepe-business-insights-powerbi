@@ -98,13 +98,14 @@ The original **PhonePe_Business_Insights.pbix** file is included in this reposit
 
 # 💡 Business Insights
 
-- Analyzed transaction trends using interactive dashboards.
-- Evaluated payment success rate through custom DAX calculations.
-- Compared Month-over-Month business performance.
-- Built KPIs for monitoring business growth.
-- Designed dashboards to support data-driven decision-making.
+The dashboard provides valuable insights into PhonePe's transaction performance and user activity by analyzing key business metrics.
 
----
+- Built an executive dashboard to monitor Total Transaction Value, Total Transactions, Registered Users, and Payment Success Rate.
+- Implemented custom DAX measures to calculate Month-over-Month (MoM) growth for transaction value and transaction count.
+- Developed an interactive dashboard with slicers and tooltips, allowing users to explore business performance dynamically.
+- Designed a star schema data model to improve query performance and support efficient reporting.
+- Applied Power Query transformations and DAX calculations to generate accurate KPIs and meaningful business insights.
+- Created a dashboard that enables stakeholders to monitor business performance and make data-driven decisions.
 
 # 🚀 Skills Demonstrated
 
