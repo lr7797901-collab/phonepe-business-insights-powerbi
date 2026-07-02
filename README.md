@@ -1,9 +1,12 @@
 # 📱 PhonePe Business Insights Dashboard | Power BI
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 > An end-to-end Power BI project that transforms raw PhonePe transaction data into interactive dashboards, enabling business insights through KPI tracking, DAX calculations, data modeling, and visualization.
-
----
-
 # 📌 Project Overview
 
 This project analyzes PhonePe digital payment transactions and user data using Power BI. It demonstrates the complete Business Intelligence workflow, including data cleaning, data modeling, DAX calculations, KPI development, and interactive dashboard design to support data-driven decision-making.
